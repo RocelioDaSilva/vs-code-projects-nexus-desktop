@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+.vscode/
+node_modules/
+__pycache__/
+*.aux
+*.fdb_latexmk
+*.fls
+*.toc
+*.log
+*.synctex.gz
+*.pdf
+*.out
