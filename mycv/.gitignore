@@ -6,7 +6,6 @@
 *.out
 *.toc
 *.xdv
-*.pdf
 *.synctex.gz
 *.gz
 *.synctex

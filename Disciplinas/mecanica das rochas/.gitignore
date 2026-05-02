@@ -17,7 +17,6 @@ env/
 *.fdb_latexmk
 *.synctex*
 *.synctex.gz
-*.pdf
 *.lof
 *.lot
 *.run.xml
@@ -30,8 +29,7 @@ latex_output/*.out
 latex_output/*.toc
 latex_output/*.fdb_latexmk
 latex_output/*.synctex*
-latex_output/*.pdf
-
+latex_output/
 # Misc
 *.synctex(busy)
 .venv/

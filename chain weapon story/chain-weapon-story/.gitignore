@@ -22,10 +22,8 @@ node_modules/
 .obsidian/workspace
 
 # Build outputs
-*.pdf
 !finished-manuscript/manuscript-integrated-105.pdf
-!finished-manuscript/final_product/*.pdf
-*.epub
+!finished-manuscript/final_product/*.epub
 # Large binary files
 *.msi
 *.zip
@@ -34,7 +32,6 @@ node_modules/
 chatsbyjson/*.json
 
 # Build outputs
-*.pdf
 *.log
 *.aux
 *.fls
