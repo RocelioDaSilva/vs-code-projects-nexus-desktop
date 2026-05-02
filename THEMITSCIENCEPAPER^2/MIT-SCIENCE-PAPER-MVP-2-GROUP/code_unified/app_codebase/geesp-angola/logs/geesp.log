@@ -1,0 +1,189 @@
+2026-04-18 09:32:52,303 - utils.validation - INFO - Logging initialized for utils.validation
+2026-04-18 09:32:52,313 - backend.app - INFO - Logging initialized for backend.app
+2026-04-18 12:57:36,786 - utils.validation - INFO - Logging initialized for utils.validation
+2026-04-18 12:57:36,798 - backend.app - INFO - Logging initialized for backend.app
+2026-04-18 12:58:48,269 - utils.data_processing - INFO - Logging initialized for utils.data_processing
+2026-04-18 12:58:48,272 - utils.validation - INFO - Logging initialized for utils.validation
+2026-04-18 12:58:48,278 - backend.app - INFO - Logging initialized for backend.app
+2026-04-18 12:59:02,510 - utils.data_processing - INFO - Logging initialized for utils.data_processing
+2026-04-18 12:59:02,513 - utils.validation - INFO - Logging initialized for utils.validation
+2026-04-18 12:59:02,518 - backend.app - INFO - Logging initialized for backend.app
+2026-04-18 12:59:17,239 - utils.data_processing - INFO - Logging initialized for utils.data_processing
+2026-04-18 12:59:17,241 - utils.validation - INFO - Logging initialized for utils.validation
+2026-04-18 12:59:17,246 - backend.app - INFO - Logging initialized for backend.app
+2026-04-18 12:59:27,144 - utils.data_processing - INFO - Logging initialized for utils.data_processing
+2026-04-18 12:59:27,146 - utils.validation - INFO - Logging initialized for utils.validation
+2026-04-18 12:59:27,150 - backend.app - INFO - Logging initialized for backend.app
+2026-04-18 12:59:27,638 - backend.utils.data_processing - INFO - Logging initialized for backend.utils.data_processing
+2026-04-18 12:59:27,647 - backend.utils.validation - INFO - Logging initialized for backend.utils.validation
+2026-04-18 12:59:46,177 - utils.data_processing - INFO - Logging initialized for utils.data_processing
+2026-04-18 12:59:46,179 - utils.validation - INFO - Logging initialized for utils.validation
+2026-04-18 12:59:46,184 - backend.app - INFO - Logging initialized for backend.app
+2026-04-18 13:01:13,198 - utils.data_processing - INFO - Logging initialized for utils.data_processing
+2026-04-18 13:01:13,201 - utils.validation - INFO - Logging initialized for utils.validation
+2026-04-18 13:01:13,205 - backend.app - INFO - Logging initialized for backend.app
+2026-04-18 13:01:17,000 - scripts.mcda_analysis - INFO - Logging initialized for scripts.mcda_analysis
+2026-04-18 13:01:17,017 - scripts.mcda_analysis - WARNING - Some utility modules not available
+2026-04-18 13:01:17,029 - scripts.lcoe_calculator - INFO - Logging initialized for scripts.lcoe_calculator
+2026-04-18 13:01:17,044 - backend.scripts.mcda_analysis - INFO - Logging initialized for backend.scripts.mcda_analysis
+2026-04-18 13:01:17,084 - scripts.data_loaders_async - INFO - Logging initialized for scripts.data_loaders_async
+2026-04-18 13:01:17,086 - backend.geospatial.earth_engine_integration - INFO - Logging initialized for backend.geospatial.earth_engine_integration
+2026-04-18 13:01:17,090 - backend.scripts.mcda_analysis - WARNING - Some utility modules not available
+2026-04-18 13:01:17,096 - backend.scripts.lcoe_calculator - INFO - Logging initialized for backend.scripts.lcoe_calculator
+2026-04-18 13:01:25,311 - utils.data_processing - INFO - Logging initialized for utils.data_processing
+2026-04-18 13:01:25,313 - utils.validation - INFO - Logging initialized for utils.validation
+2026-04-18 13:01:25,319 - backend.app - INFO - Logging initialized for backend.app
+2026-04-18 13:01:26,400 - scripts.mcda_analysis - INFO - Logging initialized for scripts.mcda_analysis
+2026-04-18 13:01:26,406 - scripts.mcda_analysis - WARNING - Some utility modules not available
+2026-04-18 13:01:26,413 - scripts.lcoe_calculator - INFO - Logging initialized for scripts.lcoe_calculator
+2026-04-18 13:01:26,423 - backend.scripts.mcda_analysis - INFO - Logging initialized for backend.scripts.mcda_analysis
+2026-04-18 13:01:26,430 - scripts.data_loaders_async - INFO - Logging initialized for scripts.data_loaders_async
+2026-04-18 13:01:26,431 - backend.geospatial.earth_engine_integration - INFO - Logging initialized for backend.geospatial.earth_engine_integration
+2026-04-18 13:01:26,436 - backend.scripts.mcda_analysis - WARNING - Some utility modules not available
+2026-04-18 13:01:26,440 - backend.scripts.lcoe_calculator - INFO - Logging initialized for backend.scripts.lcoe_calculator
+2026-04-18 13:01:26,715 - geospatial.earth_engine_integration - INFO - Logging initialized for geospatial.earth_engine_integration
+2026-04-18 13:01:26,766 - scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:01:26,768 - scripts.lcoe_calculator - INFO - [OK] LCOE calculado: 53.26 USD/MWh (0.053 USD/kWh)
+2026-04-18 13:01:26,769 - scripts.lcoe_calculator - INFO - [OK] LCOE calculado: 53.26 USD/MWh (0.053 USD/kWh)
+2026-04-18 13:01:26,772 - scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:01:26,773 - scripts.lcoe_calculator - INFO - [OK] LCOE calculado: 43.14 USD/MWh (0.043 USD/kWh)
+2026-04-18 13:01:26,794 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:01:26,796 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:01:26,798 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:01:26,799 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:01:26,801 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:01:26,803 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:01:26,806 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:01:26,808 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:01:26,810 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:01:26,811 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:01:26,813 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:01:26,814 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:01:26,816 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:01:26,817 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:01:26,819 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:01:26,822 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:01:26,880 - scripts.mcda_analysis - ERROR - ✗ Erro ao normalizar a: name 'normalize' is not defined
+2026-04-18 13:02:08,132 - utils.data_processing - INFO - Logging initialized for utils.data_processing
+2026-04-18 13:02:08,134 - utils.validation - INFO - Logging initialized for utils.validation
+2026-04-18 13:02:08,139 - backend.app - INFO - Logging initialized for backend.app
+2026-04-18 13:02:09,344 - scripts.mcda_analysis - INFO - Logging initialized for scripts.mcda_analysis
+2026-04-18 13:02:09,359 - scripts.data_loaders_async - INFO - Logging initialized for scripts.data_loaders_async
+2026-04-18 13:02:09,360 - geospatial.earth_engine_integration - INFO - Logging initialized for geospatial.earth_engine_integration
+2026-04-18 13:02:09,364 - scripts.mcda_analysis - WARNING - Some utility modules not available
+2026-04-18 13:02:09,371 - scripts.lcoe_calculator - INFO - Logging initialized for scripts.lcoe_calculator
+2026-04-18 13:02:09,379 - backend.scripts.mcda_analysis - INFO - Logging initialized for backend.scripts.mcda_analysis
+2026-04-18 13:02:09,384 - backend.scripts.mcda_analysis - WARNING - Some utility modules not available
+2026-04-18 13:02:09,387 - backend.scripts.lcoe_calculator - INFO - Logging initialized for backend.scripts.lcoe_calculator
+2026-04-18 13:02:09,641 - scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:02:09,642 - scripts.lcoe_calculator - INFO - [OK] LCOE calculado: 53.26 USD/MWh (0.053 USD/kWh)
+2026-04-18 13:02:09,642 - scripts.lcoe_calculator - INFO - [OK] LCOE calculado: 53.26 USD/MWh (0.053 USD/kWh)
+2026-04-18 13:02:09,644 - scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:02:09,645 - scripts.lcoe_calculator - INFO - [OK] LCOE calculado: 43.14 USD/MWh (0.043 USD/kWh)
+2026-04-18 13:02:09,662 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:02:09,666 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:02:09,668 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:02:09,672 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:02:09,674 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:02:09,675 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:02:09,677 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:02:09,678 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:02:09,680 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:02:09,681 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:02:09,683 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:02:09,684 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:02:09,685 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:02:09,687 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:02:09,688 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:02:09,689 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:02:09,735 - scripts.mcda_analysis - ERROR - ✗ Erro ao normalizar a: name 'normalize' is not defined
+2026-04-18 13:40:58,476 - utils.data_processing - INFO - Logging initialized for utils.data_processing
+2026-04-18 13:40:58,479 - utils.validation - INFO - Logging initialized for utils.validation
+2026-04-18 13:40:58,485 - backend.app - INFO - Logging initialized for backend.app
+2026-04-18 13:41:00,412 - scripts.lcoe_calculator - INFO - Logging initialized for scripts.lcoe_calculator
+2026-04-18 13:41:00,472 - scripts.mcda_analysis - INFO - Logging initialized for scripts.mcda_analysis
+2026-04-18 13:41:00,489 - scripts.data_loaders_async - INFO - Logging initialized for scripts.data_loaders_async
+2026-04-18 13:41:00,491 - geospatial.earth_engine_integration - INFO - Logging initialized for geospatial.earth_engine_integration
+2026-04-18 13:41:00,496 - scripts.mcda_analysis - WARNING - Some utility modules not available
+2026-04-18 13:41:00,913 - scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:41:00,915 - scripts.lcoe_calculator - INFO - [OK] LCOE calculado: 53.26 USD/MWh (0.053 USD/kWh)
+2026-04-18 13:41:00,915 - scripts.lcoe_calculator - INFO - [OK] LCOE calculado: 53.26 USD/MWh (0.053 USD/kWh)
+2026-04-18 13:41:00,918 - scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:41:00,918 - scripts.lcoe_calculator - INFO - [OK] LCOE calculado: 43.14 USD/MWh (0.043 USD/kWh)
+2026-04-18 13:41:40,729 - utils.data_processing - INFO - Logging initialized for utils.data_processing
+2026-04-18 13:41:40,733 - utils.validation - INFO - Logging initialized for utils.validation
+2026-04-18 13:41:40,739 - backend.app - INFO - Logging initialized for backend.app
+2026-04-18 13:41:42,375 - scripts.data_loaders_async - INFO - Logging initialized for scripts.data_loaders_async
+2026-04-18 13:41:42,378 - geospatial.earth_engine_integration - INFO - Logging initialized for geospatial.earth_engine_integration
+2026-04-18 13:41:42,397 - geospatial.raster - INFO - Logging initialized for geospatial.raster
+2026-04-18 13:41:42,401 - scripts.lcoe_calculator - INFO - Logging initialized for scripts.lcoe_calculator
+2026-04-18 13:41:42,407 - scripts.mcda_analysis - INFO - Logging initialized for scripts.mcda_analysis
+2026-04-18 13:41:42,438 - geospatial.operations - INFO - Logging initialized for geospatial.operations
+2026-04-18 13:41:42,448 - geospatial.operations - WARNING - MCDA weights sum to 0.9000 ≠ 1.0 — renormalizing to prevent bias
+2026-04-18 13:41:42,452 - geospatial.operations - INFO - Aptitude map computed: min=0.250, max=0.919, mean=0.498
+2026-04-18 13:41:42,457 - geospatial.operations - WARNING - MCDA weights sum to 0.9000 ≠ 1.0 — renormalizing to prevent bias
+2026-04-18 13:41:42,457 - geospatial.operations - INFO - Aptitude map computed: min=0.250, max=0.919, mean=0.498
+2026-04-18 13:41:42,460 - geospatial.operations - WARNING - MCDA weights sum to 0.9000 ≠ 1.0 — renormalizing to prevent bias
+2026-04-18 13:41:42,461 - geospatial.operations - INFO - Aptitude map computed: min=0.250, max=0.919, mean=0.498
+2026-04-18 13:41:42,461 - geospatial.operations - WARNING - MCDA weights sum to 0.9000 ≠ 1.0 — renormalizing to prevent bias
+2026-04-18 13:41:42,462 - geospatial.operations - INFO - Aptitude map computed: min=0.250, max=0.919, mean=0.498
+2026-04-18 13:41:42,489 - scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:41:42,491 - scripts.lcoe_calculator - INFO - [OK] LCOE calculado: 53.26 USD/MWh (0.053 USD/kWh)
+2026-04-18 13:41:42,492 - scripts.lcoe_calculator - INFO - [OK] LCOE calculado: 53.26 USD/MWh (0.053 USD/kWh)
+2026-04-18 13:41:42,496 - scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:41:42,496 - scripts.lcoe_calculator - INFO - [OK] LCOE calculado: 43.14 USD/MWh (0.043 USD/kWh)
+2026-04-18 13:41:42,499 - geospatial.operations - WARNING - MCDA weights sum to 0.9000 ≠ 1.0 — renormalizing to prevent bias
+2026-04-18 13:41:42,500 - geospatial.operations - INFO - Aptitude map computed: min=0.250, max=0.919, mean=0.498
+2026-04-18 13:41:42,501 - scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:41:42,502 - scripts.lcoe_calculator - INFO - [OK] LCOE calculado: 40.42 USD/MWh (0.040 USD/kWh)
+2026-04-18 13:41:42,502 - scripts.lcoe_calculator - INFO - [OK] LCOE calculado: 58.36 USD/MWh (0.058 USD/kWh)
+2026-04-18 13:41:42,510 - scripts.mcda_analysis - INFO - ✓ Weighted Overlay concluído (0.000s)
+2026-04-18 13:41:50,525 - utils.data_processing - INFO - Logging initialized for utils.data_processing
+2026-04-18 13:41:50,526 - utils.validation - INFO - Logging initialized for utils.validation
+2026-04-18 13:41:50,530 - backend.app - INFO - Logging initialized for backend.app
+2026-04-18 13:41:51,494 - scripts.mcda_analysis - INFO - Logging initialized for scripts.mcda_analysis
+2026-04-18 13:41:51,504 - scripts.data_loaders_async - INFO - Logging initialized for scripts.data_loaders_async
+2026-04-18 13:41:51,506 - geospatial.earth_engine_integration - INFO - Logging initialized for geospatial.earth_engine_integration
+2026-04-18 13:41:51,515 - geospatial.raster - INFO - Logging initialized for geospatial.raster
+2026-04-18 13:41:51,522 - scripts.lcoe_calculator - INFO - Logging initialized for scripts.lcoe_calculator
+2026-04-18 13:41:51,531 - backend.scripts.mcda_analysis - INFO - Logging initialized for backend.scripts.mcda_analysis
+2026-04-18 13:41:51,537 - backend.scripts.lcoe_calculator - INFO - Logging initialized for backend.scripts.lcoe_calculator
+2026-04-18 13:41:51,805 - geospatial.operations - INFO - Logging initialized for geospatial.operations
+2026-04-18 13:41:51,806 - geospatial.operations - WARNING - MCDA weights sum to 0.9000 ≠ 1.0 — renormalizing to prevent bias
+2026-04-18 13:41:51,807 - geospatial.operations - INFO - Aptitude map computed: min=0.250, max=0.919, mean=0.498
+2026-04-18 13:41:51,812 - geospatial.operations - WARNING - MCDA weights sum to 0.9000 ≠ 1.0 — renormalizing to prevent bias
+2026-04-18 13:41:51,812 - geospatial.operations - INFO - Aptitude map computed: min=0.250, max=0.919, mean=0.498
+2026-04-18 13:41:51,815 - geospatial.operations - WARNING - MCDA weights sum to 0.9000 ≠ 1.0 — renormalizing to prevent bias
+2026-04-18 13:41:51,815 - geospatial.operations - INFO - Aptitude map computed: min=0.250, max=0.919, mean=0.498
+2026-04-18 13:41:51,816 - geospatial.operations - WARNING - MCDA weights sum to 0.9000 ≠ 1.0 — renormalizing to prevent bias
+2026-04-18 13:41:51,816 - geospatial.operations - INFO - Aptitude map computed: min=0.250, max=0.919, mean=0.498
+2026-04-18 13:41:51,830 - scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:41:51,831 - scripts.lcoe_calculator - INFO - [OK] LCOE calculado: 53.26 USD/MWh (0.053 USD/kWh)
+2026-04-18 13:41:51,831 - scripts.lcoe_calculator - INFO - [OK] LCOE calculado: 53.26 USD/MWh (0.053 USD/kWh)
+2026-04-18 13:41:51,832 - scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:41:51,832 - scripts.lcoe_calculator - INFO - [OK] LCOE calculado: 43.14 USD/MWh (0.043 USD/kWh)
+2026-04-18 13:41:51,835 - geospatial.operations - WARNING - MCDA weights sum to 0.9000 ≠ 1.0 — renormalizing to prevent bias
+2026-04-18 13:41:51,835 - geospatial.operations - INFO - Aptitude map computed: min=0.250, max=0.919, mean=0.498
+2026-04-18 13:41:51,835 - scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:41:51,835 - scripts.lcoe_calculator - INFO - [OK] LCOE calculado: 40.42 USD/MWh (0.040 USD/kWh)
+2026-04-18 13:41:51,836 - scripts.lcoe_calculator - INFO - [OK] LCOE calculado: 58.36 USD/MWh (0.058 USD/kWh)
+2026-04-18 13:41:51,837 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:41:51,841 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:41:51,843 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:41:51,845 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:41:51,847 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:41:51,848 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:41:51,849 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:41:51,851 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:41:51,852 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:41:51,854 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:41:51,856 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:41:51,857 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:41:51,859 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:41:51,861 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:41:51,862 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:41:51,865 - backend.scripts.lcoe_calculator - INFO - [OK] LCOE Calculator inicializado para Angola
+2026-04-18 13:41:51,921 - scripts.mcda_analysis - INFO - ✓ Weighted Overlay concluído (0.000s)
+2026-04-18 13:42:05,111 - utils.data_processing - INFO - Logging initialized for utils.data_processing
+2026-04-18 13:42:05,113 - utils.validation - INFO - Logging initialized for utils.validation
+2026-04-18 13:42:05,116 - backend.app - INFO - Logging initialized for backend.app

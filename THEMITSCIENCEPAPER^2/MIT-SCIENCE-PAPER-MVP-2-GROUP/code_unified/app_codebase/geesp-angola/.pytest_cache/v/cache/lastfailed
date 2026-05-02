@@ -1,0 +1,9 @@
+{
+  "backend/tests/performance/test_performance_profiling.py": true,
+  "backend/tests/test_api_endpoints.py": true,
+  "backend/tests/unit/test_communities.py::test_communities_csv_exists_and_count": true,
+  "backend/tests/integration/test_dashboard_state.py::test_dashboard_has_required_assets": true,
+  "backend/tests/integration/test_maps_pdf.py::test_pdf_maps_exist": true,
+  "backend/tests/unit/test_dashboard_components.py::test_dashboard_file_contains_title_and_pages": true,
+  "backend/tests/unit/test_dashboard_pages.py::test_pages_export_render": true
+}
